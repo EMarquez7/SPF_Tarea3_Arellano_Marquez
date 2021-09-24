@@ -1,2 +1,2 @@
 # SPF_Tarea3_Arellano_Marquez
-En este repositorio se hará la tarea numero 3 
+Tarea 3 - Simulación de Procesos Financieros
